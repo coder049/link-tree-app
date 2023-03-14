@@ -30,7 +30,7 @@ const config = {
       key: "linkedin",
       label: "LinkedIn",
       iconUrl: LinkedIn,
-      redirectUrl: "https://www.linkedin.com/company/spheron/",
+      redirectUrl: "https://www.linkedin.com/in/sai-kumar-reddy-devireddy-7931101b6/",
     },
     // {
     //   "key": "medium",
@@ -54,7 +54,7 @@ const config = {
       key: "github",
       label: "GitHub",
       iconUrl: GitHub,
-      redirectUrl: "https://github.com/spheronFdn/",
+      redirectUrl: "https://github.com/coder049",
     },
   ],
 };
